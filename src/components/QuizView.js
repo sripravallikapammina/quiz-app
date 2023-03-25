@@ -20,11 +20,6 @@ const QuizView = ({questions, currentQuestion, handleAnswerClick}) => {
               {text}  
           </button>
       ))}
-      {/* navigate to previous question */}
-      
-      
-      <button onClick={()=>{}}>Previous</button>
-      <button>Next</button>
       
     </div>
   </>
